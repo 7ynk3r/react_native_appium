@@ -1,0 +1,3 @@
+rootProject.name = 'rnappium'
+
+include ':app'
